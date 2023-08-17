@@ -1,0 +1,15 @@
+com\example\Reto4SpringBootMongoDB\Services\OrderService.class
+com\example\Reto4SpringBootMongoDB\Services\GadgetService.class
+com\example\Reto4SpringBootMongoDB\Controller\UserController.class
+com\example\Reto4SpringBootMongoDB\Repository\OrderRepository.class
+com\example\Reto4SpringBootMongoDB\Controller\GadgetController.class
+com\example\Reto4SpringBootMongoDB\Repository\GadgetRepository.class
+com\example\Reto4SpringBootMongoDB\Entity\User.class
+com\example\Reto4SpringBootMongoDB\Entity\Order.class
+com\example\Reto4SpringBootMongoDB\Entity\SalesMan.class
+com\example\Reto4SpringBootMongoDB\Services\UserService.class
+com\example\Reto4SpringBootMongoDB\Reto4SpringBootMongoDbApplication.class
+com\example\Reto4SpringBootMongoDB\Entity\Gadget.class
+com\example\Reto4SpringBootMongoDB\Controller\OrderController.class
+com\example\Reto4SpringBootMongoDB\Entity\Product.class
+com\example\Reto4SpringBootMongoDB\Repository\UserRepository.class
